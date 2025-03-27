@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pedro\\source\\repos\\CarsApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB901C60-89C2-4160-9E45-C8990102A2C8}|CarsApi\\CarsApi.csproj|c:\\users\\pedro\\source\\repos\\carsapi\\carsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB901C60-89C2-4160-9E45-C8990102A2C8}|CarsApi\\CarsApi.csproj|solutionrelative:carsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB901C60-89C2-4160-9E45-C8990102A2C8}|CarsApi\\CarsApi.csproj|c:\\users\\pedro\\source\\repos\\carsapi\\carsapi\\controllers\\cochescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB901C60-89C2-4160-9E45-C8990102A2C8}|CarsApi\\CarsApi.csproj|solutionrelative:carsapi\\controllers\\cochescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB901C60-89C2-4160-9E45-C8990102A2C8}|CarsApi\\CarsApi.csproj|c:\\users\\pedro\\source\\repos\\carsapi\\carsapi\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB901C60-89C2-4160-9E45-C8990102A2C8}|CarsApi\\CarsApi.csproj|solutionrelative:carsapi\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB901C60-89C2-4160-9E45-C8990102A2C8}|CarsApi\\CarsApi.csproj|c:\\users\\pedro\\source\\repos\\carsapi\\carsapi\\model\\coche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB901C60-89C2-4160-9E45-C8990102A2C8}|CarsApi\\CarsApi.csproj|solutionrelative:carsapi\\model\\coche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB901C60-89C2-4160-9E45-C8990102A2C8}|CarsApi\\CarsApi.csproj|c:\\users\\pedro\\source\\repos\\carsapi\\carsapi\\migrations\\20250325105357_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB901C60-89C2-4160-9E45-C8990102A2C8}|CarsApi\\CarsApi.csproj|solutionrelative:carsapi\\migrations\\20250325105357_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CochesController.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\CarsApi\\CarsApi\\Controllers\\CochesController.cs",
+              "RelativeDocumentMoniker": "CarsApi\\Controllers\\CochesController.cs",
+              "ToolTip": "C:\\Users\\pedro\\source\\repos\\CarsApi\\CarsApi\\Controllers\\CochesController.cs",
+              "RelativeToolTip": "CarsApi\\Controllers\\CochesController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAUwGEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T11:00:59.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250325105357_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\CarsApi\\CarsApi\\Migrations\\20250325105357_Initial.cs",
+              "RelativeDocumentMoniker": "CarsApi\\Migrations\\20250325105357_Initial.cs",
+              "ToolTip": "C:\\Users\\pedro\\source\\repos\\CarsApi\\CarsApi\\Migrations\\20250325105357_Initial.cs",
+              "RelativeToolTip": "CarsApi\\Migrations\\20250325105357_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T10:53:58.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Coche.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\CarsApi\\CarsApi\\Model\\Coche.cs",
+              "RelativeDocumentMoniker": "CarsApi\\Model\\Coche.cs",
+              "ToolTip": "C:\\Users\\pedro\\source\\repos\\CarsApi\\CarsApi\\Model\\Coche.cs",
+              "RelativeToolTip": "CarsApi\\Model\\Coche.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T10:52:08.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\CarsApi\\CarsApi\\Program.cs",
+              "RelativeDocumentMoniker": "CarsApi\\Program.cs",
+              "ToolTip": "C:\\Users\\pedro\\source\\repos\\CarsApi\\CarsApi\\Program.cs",
+              "RelativeToolTip": "CarsApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T10:25:45.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\CarsApi\\CarsApi\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CarsApi\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\pedro\\source\\repos\\CarsApi\\CarsApi\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "CarsApi\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T10:16:40.149Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
