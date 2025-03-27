@@ -1,2 +1,8 @@
-# cars-crud-dotnet-angular
-🚗 Car Inventory System | CRUD API with C# (.NET) + Angular + SQL Server   ✅ API RESTful for car management   ✅ Angular frontend with responsive table   ✅ Local SQL Server database   🔜 Future: JWT auth, Docker support
+# 🚗 Sistema de Gestión de Coches (API + Angular)
+
+API CRUD para gestión de coches desarrollada en C# (.NET) con base de datos SQL Server y frontend en Angular.
+
+## 📋 Características principales
+- Crear, leer, actualizar y eliminar coches (CRUD).
+- Frontend en Angular con tabla responsive.
+- Base de datos local SQL Server.
